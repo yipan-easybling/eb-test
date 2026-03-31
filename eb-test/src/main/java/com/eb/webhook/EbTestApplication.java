@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EbTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(EbTestApplication.class, args);
+        System.out.println("test -----v3.0.0!!!!!!!!!!!!!");
     }
 }
