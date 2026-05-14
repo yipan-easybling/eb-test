@@ -13,4 +13,9 @@ public class EbTest {
     public void test2() {
         System.out.println("test2 -----v2.0.0");
     }
+
+    @Test
+    public void test3() {
+        System.out.println("test3 -----v2.0.0");
+    }
 }
