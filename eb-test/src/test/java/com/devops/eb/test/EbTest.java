@@ -8,4 +8,9 @@ public class EbTest {
     public void test() {
         System.out.println("test -----v2.0.0");
     }
+
+    @Test
+    public void test2() {
+        System.out.println("test2 -----v2.0.0");
+    }
 }
