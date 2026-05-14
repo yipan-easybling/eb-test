@@ -13,13 +13,13 @@
 
     <groupId>com.eb.webhook</groupId>
     <artifactId>eb-test</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <test.common.version>1.4.1-SNAPSHOT</test.common.version>
+        <test.common.version>1.4.2-SNAPSHOT</test.common.version>
     </properties>
     <dependencies>
         <dependency>
